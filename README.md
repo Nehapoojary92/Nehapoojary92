@@ -8,7 +8,8 @@
 - 🛠 Passionate about **Infrastructure as Code (IaC) & Cloud Security**  
 - 📖 Exploring **SRE & Monitoring with Prometheus & Grafana**  
 - 💡 Open to **collaborating on DevOps & Cloud projects**
-- ### 🚀 DevOps Tech Stack  
+- 
+ ### 🚀 DevOps Tech Stack  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
@@ -18,6 +19,7 @@
 
 - =================================================
 - 📫 **Connect with Me:**
+  
   [![LinkedIn]->https://www.linkedin.com/in/neha-poojary-b68707310/
   
   [![Email]->poojaryneha92@gmail.com
